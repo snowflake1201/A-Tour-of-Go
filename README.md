@@ -1,5 +1,6 @@
 # A-Tour-of-Go
 practicing golang.
+current: https://go.dev/tour/basics/7.  
 
 ## Index:  
 Print. - Hello.go  
