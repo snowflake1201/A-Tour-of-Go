@@ -1,5 +1,5 @@
 # A-Tour-of-Go
-practicing golang.
+practicing golang.  
 current: https://go.dev/tour/basics/7.  
 
 ## Index:  
